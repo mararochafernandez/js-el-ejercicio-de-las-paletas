@@ -1,4 +1,6 @@
- [Mara Rocha Fernández](https://github.com/mararochafernandez) ✨
+ **[Mara Rocha Fernández](https://github.com/mararochafernandez)** ✨
+
+ - Exercise URL: [Palettes](https://mararochafernandez.github.io/js-palettes/)
 
 ---
 
